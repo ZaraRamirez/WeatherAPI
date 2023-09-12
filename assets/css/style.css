@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: auto;
+  background-image: url("../img/fondoInicio.png");
+  background-size: cover;
+}
+
+.container {
+    font-family: 'Itim', cursive;
+    font-weight: 400;
+  }
+
+h2 {
+    font-family: 'Itim', cursive;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+img {
+    width: 80%;
+    height: 80%;
+}
+
+#informacion{
+    background-color: white;
+    border-radius: 30px;
+    background-color: rgba(255, 255, 255, 0.9); 
+}
+
+#dato{
+    margin-bottom: 20px;
+}
